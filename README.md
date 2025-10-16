@@ -24,6 +24,6 @@ Teamwork / Critical analysis / Sprint Organization / Good team leader / Native S
 
 #### GitHub Coding Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Dan13l4&count_private=true&theme=tokyonight&show_icons=true&hide=stars)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=kdbaron624&count_private=true&theme=tokyonight&show_icons=true&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan13l4&layout=compact&theme=tokyonight)](https://github.com/Dan13l4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdbaron624&layout=compact&theme=tokyonight)](https://github.com/kdbaron624/github-readme-stats)
